@@ -20,10 +20,6 @@ Technical Delivery Manager specializing in enterprise AI deployment, technical d
 
 Java and Spring · APIs and system integrations · PostgreSQL · cloud platforms · Kubernetes · CI/CD · B2B SaaS · technical risk and dependency management
 
-## Public work
-
-- [Copilot Telemetry Analyzer](https://github.com/yushkevich/github-copilot-telemetry-dashboard) — a privacy-first, local tool for anonymizing and analyzing GitHub Copilot telemetry.
-
 ## Interests
 
 Enterprise AI deployment · technical delivery leadership · developer experience · engineering productivity · cloud and platform delivery
